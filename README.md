@@ -12,7 +12,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://spotify-now-playing-a04f3692f.vercel.app/api/spotify-playing" alt="FalconFlare Spotify Playing" width="350" />]
+<img src="https://spotify-now-playing-a04f3692f.vercel.app/api/spotify-playing" alt="FalconFlare Spotify Playing" width="350" />
 
 
 ### Connect with me:
