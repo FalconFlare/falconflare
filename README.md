@@ -1,6 +1,6 @@
 ### Hi there, I'm Gonçalo - aka [FalconFlare][website] 👋
 
-[![Website](https://img.shields.io/website?label=falconflare.dev&style=for-the-badge&url=https%3A%2F%2Ffalconflare.live)](https://falconflare.live)
+[![Website](https://img.shields.io/website?label=falconflare.live&style=for-the-badge&url=https%3A%2F%2Ffalconflare.live)](https://falconflare.live)
 [![Twitter Follow](https://img.shields.io/twitter/follow/FalconFlare?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FFalconFlare&screen_name=falconflare)
 
 ## I'm a Developer, Gamer, and Streamer!!
@@ -17,7 +17,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="falconflare.dev" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="falconflare.live" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="FalconFlare | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="FalconFlare | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="FalconFlare | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -53,7 +53,7 @@
 
 </details> 
 
-[website]: https://FalconFlare.dev
+[website]: https://FalconFlare.live
 [twitter]: https://twitter.com/FalconFlare
 [youtube]: https://youtube.com/FalconFlare
 [instagram]: https://instagram.com/FalconFlare
