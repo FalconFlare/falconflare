@@ -1,12 +1,12 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Gonçalo (with a ç)
 ==========================================================================================================================================
 
-Software Engineer
+Aspiring Software Developer
 ----------------------
 
 * 🌍  I'm based in New York
 * ✉️  You can contact me at [hi@flareprise.com](mailto:hi@flareprise.com)
-* 🧠  I'm learning MERN Stack
+* 🧠  I'm learning the MERN Stack
 * 🤝  I'm open to collaborating on Interesting Projects
 
 <a href="https://www.twitter.com/falconflare" target="_blank" rel="noreferrer"><img
