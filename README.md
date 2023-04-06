@@ -6,8 +6,6 @@ Aspiring Software Developer
 
 * 🌍  I'm based in New York
 * ✉️  You can contact me at [hi@flareprise.com](mailto:hi@flareprise.com)
-* 🧠  I'm learning the MERN Stack
-* 🤝  I'm open to collaborating on Interesting Projects
 
 <a href="https://www.twitter.com/falconflare" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/falconflare?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
